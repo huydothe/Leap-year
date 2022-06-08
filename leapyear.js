@@ -7,7 +7,7 @@ if(a%4==0) {
             alert(a + 'is not leap');
         }
     } else {
-        alert(a + 'is not leap');
+        alert(a + 'is leap');
     }
 }
     else{
